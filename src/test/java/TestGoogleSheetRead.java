@@ -18,7 +18,6 @@ public class TestGoogleSheetRead {
 
 
         //Read the spreadsheet
-        //https://docs.google.com/spreadsheets/d/1vQwrEkZ13iRVFWyr7bi-weB9WAKuX9o3qb_68gchkgE/edit#gid=1950808909
         //https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit#gid=0
 
         String spreadSheetId = "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms";
